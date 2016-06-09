@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="8150" systemVersion="15A204g" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" initialViewController="01J-lp-oVM">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10116" systemVersion="15F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" initialViewController="01J-lp-oVM">
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="8122"/>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
     </dependencies>
     <scenes>
         <!--View Controller-->
@@ -15,8 +18,67 @@
                     <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <animations/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <subviews>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Conversation cards for couples" textAlignment="center" lineBreakMode="wordWrap" baselineAdjustment="alignBaselines" minimumFontSize="16" translatesAutoresizingMaskIntoConstraints="NO" id="I43-aP-7gT">
+                                <rect key="frame" x="65" y="141" width="471" height="46"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="I43-aP-7gT" secondAttribute="height" multiplier="471:46" id="1eP-2P-K6k"/>
+                                    <constraint firstAttribute="width" secondItem="I43-aP-7gT" secondAttribute="height" multiplier="441:43" id="RmZ-b2-MNI"/>
+                                    <constraint firstAttribute="width" secondItem="I43-aP-7gT" secondAttribute="height" multiplier="471:46" id="dpn-An-2BG"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="SnellRoundhand-Bold" family="Snell Roundhand" pointSize="36"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                                <variation key="default">
+                                    <mask key="constraints">
+                                        <exclude reference="RmZ-b2-MNI"/>
+                                        <exclude reference="dpn-An-2BG"/>
+                                    </mask>
+                                </variation>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Copyright (c) 2016 Avi Tannenbaum. All rights reserved." textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="9" translatesAutoresizingMaskIntoConstraints="NO" id="l54-3L-2gn">
+                                <rect key="frame" x="87" y="559" width="426" height="21"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="l54-3L-2gn" secondAttribute="height" multiplier="142:7" id="Hbp-Rb-hT6"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="LaunchImage" translatesAutoresizingMaskIntoConstraints="NO" id="9eG-4p-mF7">
+                                <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="0.99642591482242837" green="0.91782950442459421" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="bottom" secondItem="l54-3L-2gn" secondAttribute="bottom" constant="20" symbolic="YES" id="1PS-Pb-awz"/>
+                            <constraint firstItem="I43-aP-7gT" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="6F5-TK-L7A"/>
+                            <constraint firstItem="9eG-4p-mF7" firstAttribute="bottom" secondItem="xb3-aO-Qok" secondAttribute="top" id="6HD-oP-req"/>
+                            <constraint firstItem="l54-3L-2gn" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="C0Z-qJ-vX5"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="I43-aP-7gT" secondAttribute="trailing" constant="44" id="Ca2-aS-JW8"/>
+                            <constraint firstItem="9eG-4p-mF7" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="Fag-yb-sB2"/>
+                            <constraint firstItem="9eG-4p-mF7" firstAttribute="centerX" secondItem="l54-3L-2gn" secondAttribute="centerX" id="IcC-1x-wb6"/>
+                            <constraint firstItem="I43-aP-7gT" firstAttribute="top" secondItem="Llm-lL-Icb" secondAttribute="bottom" constant="121" id="O7G-Rb-eG9"/>
+                            <constraint firstItem="I43-aP-7gT" firstAttribute="top" secondItem="Llm-lL-Icb" secondAttribute="bottom" constant="8" symbolic="YES" id="P3s-ay-JJ8"/>
+                            <constraint firstItem="9eG-4p-mF7" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="topMargin" id="e7L-fQ-COx"/>
+                            <constraint firstItem="I43-aP-7gT" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="f5c-MM-fdl"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="I43-aP-7gT" secondAttribute="trailing" constant="44" id="hFV-F0-ogG"/>
+                            <constraint firstItem="I43-aP-7gT" firstAttribute="top" secondItem="Llm-lL-Icb" secondAttribute="bottom" constant="121" id="kJc-BA-ICi"/>
+                            <constraint firstItem="I43-aP-7gT" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leadingMargin" constant="45" id="mDk-GI-MbS"/>
+                            <constraint firstItem="9eG-4p-mF7" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leadingMargin" id="wNQ-t8-ks0"/>
+                            <constraint firstItem="9eG-4p-mF7" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="ySa-4Z-sry"/>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="e7L-fQ-COx"/>
+                                <exclude reference="wNQ-t8-ks0"/>
+                                <exclude reference="O7G-Rb-eG9"/>
+                                <exclude reference="P3s-ay-JJ8"/>
+                                <exclude reference="f5c-MM-fdl"/>
+                                <exclude reference="hFV-F0-ogG"/>
+                                <exclude reference="mDk-GI-MbS"/>
+                            </mask>
+                        </variation>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -24,4 +86,7 @@
             <point key="canvasLocation" x="53" y="375"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="LaunchImage" width="16" height="16"/>
+    </resources>
 </document>

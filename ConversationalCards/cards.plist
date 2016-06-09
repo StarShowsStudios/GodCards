@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Begin</string>
+		<key>title</key>
+		<string> </string>
+		<key>mode</key>
+		<string> </string>
+		<key>color</key>
+		<string>none</string>
+		<key>group</key>
+		<string>Getting Started</string>
+		<key>customText</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>THE COMPLIMENT
+            I WANT TO GIVE YOU...</string>
+		<key>mode</key>
+		<string>WARM UP</string>
+		<key>color</key>
+		<string>0</string>
+		<key>group</key>
+		<string>Date One</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>TALK ABOUT YOUR NEXT VACATION...</string>
+		<key>mode</key>
+		<string>ENCOURAGING EACH OTHER</string>
+		<key>color</key>
+		<string>0</string>
+		<key>group</key>
+		<string>Date One</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>I THINK OUR BEST MEMORY IS...</string>
+		<key>mode</key>
+		<string>STRENGTHENING YOUR RELATIONSHIP</string>
+		<key>color</key>
+		<string>0</string>
+		<key>group</key>
+		<string>Date One</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>AN ADVENTURE I WANT TO SHARE WITH YOU...</string>
+		<key>mode</key>
+		<string>A LITTLE BIT OF FUN</string>
+		<key>color</key>
+		<string>0</string>
+		<key>group</key>
+		<string>Date One</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>I TRUST YOU BECAUSE...</string>
+		<key>mode</key>
+		<string>DEEPENING YOUR BOND</string>
+		<key>color</key>
+		<string>0</string>
+		<key>group</key>
+		<string>Date One</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>I FELL IN LOVE WITH YOU WHEN...</string>
+		<key>mode</key>
+		<string>FUEL YOUR ROMANCE</string>
+		<key>color</key>
+		<string>0</string>
+		<key>group</key>
+		<string>Date One</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>RECEIVE A HUG...</string>
+		<key>mode</key>
+		<string>TRY THIS</string>
+		<key>color</key>
+		<string>0</string>
+		<key>group</key>
+		<string>Date One</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>I REALLY APPRECIATE WHEN YOU...</string>
+		<key>mode</key>
+		<string>WARM UP</string>
+		<key>color</key>
+		<string>1</string>
+		<key>group</key>
+		<string>Date Two</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>You MAKE ME REALLY HAPPY WHEN...</string>
+		<key>mode</key>
+		<string>ENCOURAGING EACH OTHER</string>
+		<key>color</key>
+		<string>1</string>
+		<key>group</key>
+		<string>Date Two</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>I BELIEVE IN YOU BECAUSE...</string>
+		<key>mode</key>
+		<string>STRENGTHENING YOUR RELATIONSHIP</string>
+		<key>color</key>
+		<string>1</string>
+		<key>group</key>
+		<string>Date Two</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>SOMETHING SILLY l WANT TO DO WITH YOU...</string>
+		<key>mode</key>
+		<string>A LITTLE BIT OF FUN</string>
+		<key>color</key>
+		<string>1</string>
+		<key>group</key>
+		<string>Date Two</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>I WANT TO PAMPER YOU BY...</string>
+		<key>mode</key>
+		<string>DEEPENING YOUR BOND</string>
+		<key>color</key>
+		<string>1</string>
+		<key>group</key>
+		<string>Date Two</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>A SMALL DOSE OF ROMANCE WOULD INCLUDE...</string>
+		<key>mode</key>
+		<string>FUEL YOUR ROMANCE</string>
+		<key>color</key>
+		<string>1</string>
+		<key>group</key>
+		<string>Date Two</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>HOLD HANDS WITH EYES CLOSED...</string>
+		<key>mode</key>
+		<string>TRY THIS</string>
+		<key>color</key>
+		<string>1</string>
+		<key>group</key>
+		<string>Date Two</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>A GIFT I WOULD LIKE TO RECEIVE FROM YOU...</string>
+		<key>mode</key>
+		<string>WARM UP</string>
+		<key>color</key>
+		<string>2</string>
+		<key>group</key>
+		<string>Date Three</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>ONE THING I HAVE LEARNED FROM YOU...</string>
+		<key>mode</key>
+		<string>ENCOURAGING EACH OTHER</string>
+		<key>color</key>
+		<string>2</string>
+		<key>group</key>
+		<string>Date Three</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>I WANT TO SHOW YOU SUPPORT BY...</string>
+		<key>mode</key>
+		<string>STRENGTHENING YOUR RELATIONSHIP</string>
+		<key>color</key>
+		<string>2</string>
+		<key>group</key>
+		<string>Date Three</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>WHAT IS YOUR FAVOURITE ROMANTIC MOVIE? WHY?</string>
+		<key>mode</key>
+		<string>A LITTLE BIT OF FUN</string>
+		<key>color</key>
+		<string>2</string>
+		<key>group</key>
+		<string>Date Three</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>MY ATTRACTION TO YOU DEEPENED WHEN...</string>
+		<key>mode</key>
+		<string>DEEPENING YOUR BOND</string>
+		<key>color</key>
+		<string>2</string>
+		<key>group</key>
+		<string>Date Three</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>I Think OUR RELATIONSHIP IS AT ITS BEST WHEN...</string>
+		<key>mode</key>
+		<string>FUEL YOUR ROMANCE</string>
+		<key>color</key>
+		<string>2</string>
+		<key>group</key>
+		<string>Date Three</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>WRITE YOUR PARTNER A THANKYOU NOTE...</string>
+		<key>mode</key>
+		<string>TRY THIS</string>
+		<key>color</key>
+		<string>2</string>
+		<key>group</key>
+		<string>Date Four</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>I WAS FIRST ATTRACTED TO YOU BECAUSE...</string>
+		<key>mode</key>
+		<string>WARM UP</string>
+		<key>color</key>
+		<string>3</string>
+		<key>group</key>
+		<string>Date Four</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>You BRING OUT THE BEST IN ME BY...</string>
+		<key>mode</key>
+		<string>ENCOURAGING EACH OTHER</string>
+		<key>color</key>
+		<string>3</string>
+		<key>group</key>
+		<string>Date Four</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>I&apos;D LIKE TO STUDY _ WITH YOU.</string>
+		<key>mode</key>
+		<string>STRENGTHENING YOUR RELATIONSHIP</string>
+		<key>color</key>
+		<string>3</string>
+		<key>group</key>
+		<string>Date Four</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>SOMETHING CRAZY I WANT TO DO WITH YOU...</string>
+		<key>mode</key>
+		<string>A LITTLE BIT OF FUN</string>
+		<key>color</key>
+		<string>3</string>
+		<key>group</key>
+		<string>Date Four</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>ONE WAY TO TREAT OURSELVES TOGETHER...</string>
+		<key>mode</key>
+		<string>DEEPENING YOUR BOND</string>
+		<key>color</key>
+		<string>3</string>
+		<key>group</key>
+		<string>Date Four</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>I THINK OF US WHEN l HEAR THIS SONG...</string>
+		<key>mode</key>
+		<string>FUEL YOUR ROMANCE</string>
+		<key>color</key>
+		<string>3</string>
+		<key>group</key>
+		<string>Date Four</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>RECEIVE A HEAD MASSAGE.</string>
+		<key>mode</key>
+		<string>TRY THIS</string>
+		<key>color</key>
+		<string>3</string>
+		<key>group</key>
+		<string>Date Five</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>MY EARLIEST MEMORY OF OUR FRIENDSHIP...</string>
+		<key>mode</key>
+		<string>WARM UP</string>
+		<key>color</key>
+		<string>4</string>
+		<key>group</key>
+		<string>Date Five</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>SOMETHING EXCITING WE CAN DO TOGETHER...</string>
+		<key>mode</key>
+		<string>ENCOURAGING EACH OTHER</string>
+		<key>color</key>
+		<string>4</string>
+		<key>group</key>
+		<string>Date Five</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>OUR IDEAL DAY TOGETHER...</string>
+		<key>mode</key>
+		<string>STRENGTHENING YOUR RELATIONSHIP</string>
+		<key>color</key>
+		<string>4</string>
+		<key>group</key>
+		<string>Date Five</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>IF I COULD BUY YOU ANYTHING I WOULD BUY YOU...</string>
+		<key>mode</key>
+		<string>A LITTLE BIT OF FUN</string>
+		<key>color</key>
+		<string>4</string>
+		<key>group</key>
+		<string>Date Five</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>I FEEL CLOSE TO YOU WHEN...</string>
+		<key>mode</key>
+		<string>DEEPENING YOUR BOND</string>
+		<key>color</key>
+		<string>4</string>
+		<key>group</key>
+		<string>Date Five</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>DESCRIBE A ROMANTIC EVENING</string>
+		<key>mode</key>
+		<string>FUEL YOUR ROMANCE</string>
+		<key>color</key>
+		<string>4</string>
+		<key>group</key>
+		<string>Date Five</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>WRITE YOUR PARTNER A COMPLIMENT NOTE.</string>
+		<key>mode</key>
+		<string>TRY THIS</string>
+		<key>color</key>
+		<string>4</string>
+		<key>group</key>
+		<string>Date Five</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>THE TALENT OF YOURS I REALLY LIKE...</string>
+		<key>mode</key>
+		<string>WARM UP</string>
+		<key>color</key>
+		<string>5</string>
+		<key>group</key>
+		<string>Date Six</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>I ADMIRE THAT YOU...</string>
+		<key>mode</key>
+		<string>ENCOURAGING EACH OTHER</string>
+		<key>color</key>
+		<string>5</string>
+		<key>group</key>
+		<string>Date Six</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>I WANT TO THANK YOU FOR...</string>
+		<key>mode</key>
+		<string>STRENGTHENING YOUR RELATIONSHIP</string>
+		<key>color</key>
+		<string>5</string>
+		<key>group</key>
+		<string>Date Six</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>A SURPRISE I&apos;D LIKE FROM YOU...</string>
+		<key>mode</key>
+		<string>A LITTLE BIT OF FUN</string>
+		<key>color</key>
+		<string>5</string>
+		<key>group</key>
+		<string>Date Six</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>I LOVE YOU BECAUSE...</string>
+		<key>mode</key>
+		<string>DEEPENING YOUR BOND</string>
+		<key>color</key>
+		<string>5</string>
+		<key>group</key>
+		<string>Date Six</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>MY EARLIEST MEMORY OF OUR ROMANCE...</string>
+		<key>mode</key>
+		<string>FUEL YOUR ROMANCE</string>
+		<key>color</key>
+		<string>5</string>
+		<key>group</key>
+		<string>Date Six</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>RECEIVE A SHOULDER MASSAGE</string>
+		<key>mode</key>
+		<string>TRY THIS</string>
+		<key>color</key>
+		<string>5</string>
+		<key>group</key>
+		<string>Date Six</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>ONE OF YOUR STRENGTHS...</string>
+		<key>mode</key>
+		<string>WARM UP</string>
+		<key>color</key>
+		<string>6</string>
+		<key>group</key>
+		<string>Date Seven</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>ONE PLEASURE I WOULD LIKE TO GIVE YOU...</string>
+		<key>mode</key>
+		<string>ENCOURAGING EACH OTHER</string>
+		<key>color</key>
+		<string>6</string>
+		<key>group</key>
+		<string>Date Seven</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>OUR LOVE REMINDS ME OF THIS CANDY...</string>
+		<key>mode</key>
+		<string>STRENGTHENING YOUR RELATIONSHIP</string>
+		<key>color</key>
+		<string>6</string>
+		<key>group</key>
+		<string>Date Seven</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>I FEEL SAFE WITH YOU BECAUSE...</string>
+		<key>mode</key>
+		<string>A LITTLE BIT OF FUN</string>
+		<key>color</key>
+		<string>6</string>
+		<key>group</key>
+		<string>Date Seven</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>I WANT YOU TO PAMPER ME BY...</string>
+		<key>mode</key>
+		<string>DEEPENING YOUR BOND</string>
+		<key>color</key>
+		<string>6</string>
+		<key>group</key>
+		<string>Date Seven</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>I THINK YOU ARE SEXY BECAUSE...</string>
+		<key>mode</key>
+		<string>FUEL YOUR ROMANCE</string>
+		<key>color</key>
+		<string>6</string>
+		<key>group</key>
+		<string>Date Seven</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Card</string>
+		<key>title</key>
+		<string>LOOK INTO EACH OTHERS EYES.</string>
+		<key>mode</key>
+		<string>TRY THIS</string>
+		<key>color</key>
+		<string>6</string>
+		<key>group</key>
+		<string>Date Seven</string>
+        <key>customText</key>
+        <string></string>
+	</dict>
+</array>
+</plist>
