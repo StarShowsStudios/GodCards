@@ -33,6 +33,8 @@ class ViewController: UIViewController {
         
     }
     
+  
+    
     override func viewDidAppear(animated: Bool) {
         super.viewDidAppear(true)
         
@@ -151,6 +153,8 @@ extension ViewController : UICollectionViewDataSource {
         return dataSource.numbeOfRowsInEachGroup(section)
     }
     
+    // Cards cell Style when in collection view
+    
     func collectionView(collectionView: UICollectionView, cellForItemAtIndexPath indexPath: NSIndexPath) -> UICollectionViewCell {
         let cell = collectionView.dequeueReusableCellWithReuseIdentifier(identifier,forIndexPath:indexPath) as! CardCell
         
@@ -161,6 +165,18 @@ extension ViewController : UICollectionViewDataSource {
         
         cell.imageView.image = UIImage(named: name.lowercaseString)
         cell.caption.text = name.capitalizedString
+        
+        
+        // Add a border to the cell
+        
+        cell.layer.borderColor = UIColor.redColor().CGColor
+        
+        // cell border width
+        cell.layer.borderWidth = 3
+        
+        // cell corner radius size
+        
+        cell.layer.cornerRadius = 8 // change radius here reccomended under 10 max 30
         
         return cell
     }
